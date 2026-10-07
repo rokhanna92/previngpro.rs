@@ -1,35 +1,80 @@
 {
   "stats": [
-    { "label": "Licenca za BZR i rešenje za ZOP, na ime firme", "value": "2" },
-    { "label": "Godine prakse na tržištu EU", "value": "10" },
-    { "label": "Rafinerije: Slovnaft · MOL · Unipetrol · OMV · INA", "value": "5" },
-    { "label": "Ljudi koje dobijate na telefon", "value": "2" }
+    {
+      "label": "Licenca za BZR i rešenje za ZOP, na ime firme",
+      "value": "2"
+    },
+    {
+      "label": "Godine prakse na tržištu EU",
+      "value": "10"
+    },
+    {
+      "label": "Rafinerije: Slovnaft · MOL · Unipetrol · OMV · INA",
+      "value": "5"
+    },
+    {
+      "label": "Ljudi koje dobijate na telefon",
+      "value": "2"
+    }
   ],
   "mapa": {
     "oznaka": "MAPA ISKUSTVA",
     "legenda": "RAFINERIJE I GRADILIŠTA · 2014-2026",
-    "cilj": { "naziv": "NOVI SAD", "mesto": "PREVING PRO", "lat": 45.29, "lon": 19.85 },
+    "cilj": {
+      "naziv": "NOVI SAD",
+      "mesto": "PREVING PRO",
+      "lat": 45.29,
+      "lon": 19.85
+    },
     "tacke": [
-      { "naziv": "NITRA", "mesto": "SLOVAČKA", "lat": 48.31, "lon": 18.09 },
-      { "naziv": "SLOVNAFT", "mesto": "BRATISLAVA", "lat": 48.13, "lon": 17.14 },
-      { "naziv": "UNIPETROL", "mesto": "ČEŠKA", "lat": 50.6, "lon": 13.62 },
-      { "naziv": "OMV", "mesto": "AUSTRIJA", "lat": 48.14, "lon": 16.48 },
-      { "naziv": "MOL", "mesto": "MAĐARSKA", "lat": 47.31, "lon": 18.92 },
-      { "naziv": "INA", "mesto": "HRVATSKA", "lat": 45.49, "lon": 16.37 }
+      {
+        "naziv": "NITRA",
+        "mesto": "SLOVAČKA",
+        "lat": 48.31,
+        "lon": 18.09
+      },
+      {
+        "naziv": "SLOVNAFT",
+        "mesto": "BRATISLAVA",
+        "lat": 48.13,
+        "lon": 17.14
+      },
+      {
+        "naziv": "UNIPETROL",
+        "mesto": "ČEŠKA",
+        "lat": 50.6,
+        "lon": 13.62
+      },
+      {
+        "naziv": "OMV",
+        "mesto": "AUSTRIJA",
+        "lat": 48.14,
+        "lon": 16.48
+      },
+      {
+        "naziv": "MOL",
+        "mesto": "MAĐARSKA",
+        "lat": 47.31,
+        "lon": 18.92
+      },
+      {
+        "naziv": "INA",
+        "mesto": "HRVATSKA",
+        "lat": 45.49,
+        "lon": 16.37
+      }
     ]
   },
   "timeline": [
     {
       "tag": "NITRA · SLOVAČKA",
       "title": "Master iz bezbednosti na radu",
-      "text": "Tehnički fakultet u Nitri: bezbednost na radu i pouzdanost tehničkih sistema. Zanat naučen tamo gde je BZR inženjerska disciplina, ne fascikla.",
-      "chips": null
+      "text": "Tehnički fakultet u Nitri: bezbednost na radu i pouzdanost tehničkih sistema. Zanat naučen tamo gde je BZR inženjerska disciplina, ne fascikla."
     },
     {
       "tag": "ABEP, NITRA · 3 GODINE",
       "title": "Koordinator za BZR na gradilištima",
-      "text": "Tri godine koordinacije izvođača na gradilištima širom Slovačke: prijave, elaborati, kontrole i svakodnevni rad sa ljudima na terenu.",
-      "chips": null
+      "text": "Tri godine koordinacije izvođača na gradilištima širom Slovačke: prijave, elaborati, kontrole i svakodnevni rad sa ljudima na terenu."
     },
     {
       "tag": "REMONTI PO EU · 7 GODINA",
@@ -46,14 +91,12 @@
     {
       "tag": "2026 · NOVI SAD",
       "title": "Osnovan Preving Pro",
-      "text": "Preving Pro DOO za preventivni inženjering, Novi Sad. Kancelarija na Temerinskom putu 51 na Klisi: na glavnom putu, nadomak rafinerije. Standard sa remonta, primenjen na male firme u Vojvodini.",
-      "chips": null
+      "text": "Preving Pro DOO za preventivni inženjering, Novi Sad. Kancelarija na Temerinskom putu 51 na Klisi: na glavnom putu, nadomak rafinerije. Standard sa remonta, primenjen na male firme u Vojvodini."
     },
     {
       "tag": "SRBIJA · PRAVNO LICE",
       "title": "Licenca i rešenje na ime firme",
-      "text": "Licenca za pravna lica za obavljanje poslova bezbednosti i zdravlja na radu i rešenje MUP-a za obavljanje poslova organizovanja zaštite od požara u subjektima II i III kategorije ugroženosti od požara.",
-      "chips": null
+      "text": "Licenca za pravna lica za obavljanje poslova bezbednosti i zdravlja na radu i rešenje MUP-a za obavljanje poslova organizovanja zaštite od požara u subjektima II i III kategorije ugroženosti od požara."
     }
   ],
   "tim": [
@@ -62,7 +105,7 @@
       "slika": "/Boris.png",
       "name": "Boris Sabo",
       "role": "OSNIVAČ · SAVETNIK ZA BZR · KOORDINATOR",
-      "bio": "Inženjer koji je bezbednost učio tamo gde greška košta najviše: deset godina na remontima rafinerija Slovnaft, MOL, Unipetrol, OMV i INA, gde hiljade izvođača rade pod jednim režimom dozvola. Master bezbednosti na radu iz Nitre. Taj standard danas prenosi firmama u Vojvodini, sa jasnim pravilom: svaki rizik ima ime, meru i rok."
+      "bio": "Inženjer koji je bezbednost učio tamo gde greška košta najviše: deset godina na remontima rafinerija Slovnaft, MOL, Unipetrol, OMV i INA, gde hiljade izvođača rade pod jednim režimom dozvola. Master bezbednosti na radu iz Nitre. Taj standard danas prenosi firmama u Vojvodini, sa jasnim pravilom: svaki rizik ima ime, meru i rokove."
     },
     {
       "id": "foto-mira",
