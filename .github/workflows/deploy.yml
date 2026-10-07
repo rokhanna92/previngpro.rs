@@ -25,14 +25,14 @@ jobs:
           npm ci
           npm run build
 
-      - name: Sync files to cPanel via FTP
+      - name: Sync files to cPanel via SFTP
         uses: SamKirkland/ftp-deploy-action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: "previngp"
           password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          port: 21
+          protocol: sftp
+          port: 22
           server-dir: "/public_html/"
           local-dir: "./site/dist/"
           dangerous-clean-slate: false
