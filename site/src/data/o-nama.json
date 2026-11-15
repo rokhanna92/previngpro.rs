@@ -1,7 +1,7 @@
 {
   "stats": [
     {
-      "label": "Licenca za BZR i rešenje za ZOP, na ime firme",
+      "label": "Licenca za BZR i uverenje MUP-a, na ime firme",
       "value": "2"
     },
     {
@@ -68,12 +68,12 @@
   "timeline": [
     {
       "tag": "NITRA · SLOVAČKA",
-      "title": "Master iz bezbednosti na radu",
+      "title": "Master inžinjer iz bezbednosti na radu",
       "text": "Tehnički fakultet u Nitri: bezbednost na radu i pouzdanost tehničkih sistema. Zanat naučen tamo gde je BZR inženjerska disciplina, ne fascikla."
     },
     {
       "tag": "ABEP, NITRA · 3 GODINE",
-      "title": "Koordinator za BZR na gradilištima",
+      "title": "Koordinator gradilišta",
       "text": "Tri godine koordinacije izvođača na gradilištima širom Slovačke: prijave, elaborati, kontrole i svakodnevni rad sa ljudima na terenu."
     },
     {
