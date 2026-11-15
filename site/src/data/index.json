@@ -17,9 +17,18 @@
       "naslov": "STATUS / PROPISI",
       "zivo": "ŽIVO",
       "redovi": [
-        { "label": "Zakon 35/2023", "value": "NA SNAZI" },
-        { "label": "4 nova pravilnika", "value": "01.01.2027." },
-        { "label": "Licenca BZR · rešenje ZOP", "value": "PRAVNO LICE" }
+        {
+          "label": "Zakon 35/2023",
+          "value": "NA SNAZI"
+        },
+        {
+          "label": "4 nova pravilnika",
+          "value": "01.01.2027."
+        },
+        {
+          "label": "Licenca BZR · uverenje ZOP",
+          "value": "PRAVNO LICE"
+        }
       ]
     },
     "traka": [
@@ -33,17 +42,33 @@
     ]
   },
   "brojke": [
-    { "broj": "02", "tekst": "dokumenta na ime firme: licenca za poslove BZR i rešenje MUP-a za zaštitu od požara" },
-    { "broj": "10", "tekst": "godina na investicionim projektima i remontima u EU" },
-    { "broj": "05", "tekst": "rafinerija: Slovnaft, MOL, Unipetrol, OMV i INA" },
-    { "broj": "24/7", "tekst": "telefonska linija i hitan izlazak na teren" }
+    {
+      "broj": "02",
+      "tekst": "dokumenta na ime firme: licenca za pravna lica za poslove BZR i uverenje MUP-a za zaštitu od požara"
+    },
+    {
+      "broj": "10",
+      "tekst": "godina na investicionim projektima i remontima u EU"
+    },
+    {
+      "broj": "05",
+      "tekst": "rafinerija: Slovnaft, MOL, Unipetrol, OMV i INA"
+    },
+    {
+      "broj": "24/7",
+      "tekst": "telefonska linija i hitan izlazak na teren"
+    }
   ],
   "provera": {
     "oznaka": "SISTEM / PROVERA OBAVEZA",
     "naslov": "Da li vam je potreban savetnik za BZR?",
     "uvod": "Odgovorite na dva pitanja i odmah znate na čemu ste.",
     "pitanje1": "01 / KOLIKO IMATE ZAPOSLENIH?",
-    "odgovori1": ["Nemam zaposlene", "1–20", "Više od 20"],
+    "odgovori1": [
+      "Nemam zaposlene",
+      "1–20",
+      "Više od 20"
+    ],
     "pitanje2": "02 / ČIME SE BAVITE?",
     "odgovori2": [
       "Građevina, proizvodnja, skladištenje, transport",
@@ -80,7 +105,7 @@
       }
     },
     "rokOznaka": "ROK",
-    "rok": "1. januar 2027.",
+    "rok": "1. april 2027.",
     "kaznaOznaka": "KAZNA ZA PREDUZETNIKA",
     "kazna": "400.000–500.000 RSD",
     "dugme": "Zatražite ponudu →"
@@ -123,13 +148,25 @@
   },
   "rokovi": {
     "oznaka": "02 / ROKOVI KOJI VAS SE TIČU",
-    "datumRed1": "1. januar",
+    "datumRed1": "1. april",
     "datumRed2": "2027.",
-    "tekst": "Od tog dana primenjuju se četiri nova pravilnika, među njima o proceni rizika, o radu na visini i o vođenju evidencija. Primena je pomerena sa 1. jula 2026. godine. Dobili ste vreme, ne oproštaj. Naš deo posla: obuke zaposlenih, kontrola gradilišta i firmi, vođenje evidencija i zastupanje pred inspekcijom.",
+    "tekst": "Od tog dana primenjuju se četiri nova pravilnika, među njima o proceni rizika, o radu na visini i o vođenju evidencija. Primena je pomerena sa 1. januara 2027. godine. Dobili ste vreme, ne oproštaj. Naš deo posla: obuke zaposlenih, kontrola gradilišta i firmi, vođenje evidencija i zastupanje pred inspekcijom.",
     "kazne": [
-      { "oznaka": "KAZNA / PREDUZETNIK", "iznos": "400.000–500.000", "valuta": "RSD" },
-      { "oznaka": "KAZNA / PRAVNO LICE", "iznos": "1,5–2 miliona", "valuta": "RSD" },
-      { "oznaka": "KAZNA / ODGOVORNO LICE", "iznos": "50.000–150.000", "valuta": "RSD" }
+      {
+        "oznaka": "KAZNA / PREDUZETNIK",
+        "iznos": "400.000–500.000",
+        "valuta": "RSD"
+      },
+      {
+        "oznaka": "KAZNA / PRAVNO LICE",
+        "iznos": "1,5–2 miliona",
+        "valuta": "RSD"
+      },
+      {
+        "oznaka": "KAZNA / ODGOVORNO LICE",
+        "iznos": "50.000–150.000",
+        "valuta": "RSD"
+      }
     ],
     "gradilistaJako": "Gradilišta.",
     "gradilistaTekst": " Prijavu o početku rada dostavljamo inspekciji rada najmanje osam dana pre početka radova, a uz to dobijate i usluge koordinatora gradilišta u fazi izvođenja radova.",
@@ -150,17 +187,38 @@
     "naslov": "Zašto Preving Pro",
     "oznaka": "05 / DOKAZI, NE PRIDEVI",
     "licence": [
-      { "oznaka": "LICENCA", "tekst": "Licenca za pravna lica za obavljanje poslova bezbednosti i zdravlja na radu" },
-      { "oznaka": "REŠENJE", "tekst": "Rešenje za obavljanje poslova organizovanja zaštite od požara u subjektima II i III kategorije ugroženosti od požara" }
+      {
+        "oznaka": "LICENCA",
+        "tekst": "Licenca za pravna lica za obavljanje poslova bezbednosti i zdravlja na radu"
+      },
+      {
+        "oznaka": "UVERENJE",
+        "tekst": "o položenom stručnom ispitu iz oblasti zaštite od požara"
+      }
     ],
-    "licenceNapomena": "Izdati na ime firme: Preving Pro DOO, Novi Sad.",
+    "licenceNapomena": "Izdati na ime firme: PREVING PRO DOO NOVI SAD",
     "iskustvoOznaka": "DESET GODINA NA NAJZAHTEVNIJIM PROJEKTIMA U EU",
     "rafinerije": [
-      { "ime": "Slovnaft", "mesto": "BRATISLAVA · SLOVAČKA" },
-      { "ime": "MOL", "mesto": "MAĐARSKA" },
-      { "ime": "Unipetrol", "mesto": "ČEŠKA" },
-      { "ime": "OMV", "mesto": "AUSTRIJA" },
-      { "ime": "INA", "mesto": "HRVATSKA" }
+      {
+        "ime": "Slovnaft",
+        "mesto": "BRATISLAVA · SLOVAČKA"
+      },
+      {
+        "ime": "MOL",
+        "mesto": "MAĐARSKA"
+      },
+      {
+        "ime": "Unipetrol",
+        "mesto": "ČEŠKA"
+      },
+      {
+        "ime": "OMV",
+        "mesto": "AUSTRIJA"
+      },
+      {
+        "ime": "INA",
+        "mesto": "HRVATSKA"
+      }
     ],
     "iskustvoTekst": "Sedam godina na investicionim projektima i generalnim remontima rafinerija, tri godine kao koordinator na gradilištima u Slovačkoj. Ako standard izdrži remont rafinerije, izdržaće i vaše gradilište.",
     "kartice": [
@@ -176,12 +234,21 @@
     "gde": {
       "oznaka": "GDE RADIMO",
       "delovi": [
-        { "jako": "Novi Sad i okolina", "tekst": ": kancelarija na Temerinskom putu 51, Klisa. " },
-        { "jako": "Opština Kovačica", "tekst": ": Kovačica, Padina, Debeljača. " },
-        { "jako": "Cela Vojvodina", "tekst": ": po dogovoru." }
+        {
+          "jako": "Novi Sad i okolina",
+          "tekst": ": kancelarija na Temerinskom putu 51, Klisa. "
+        },
+        {
+          "jako": "Opština Kovačica",
+          "tekst": ": Kovačica, Padina, Debeljača. "
+        },
+        {
+          "jako": "Cela Vojvodina",
+          "tekst": ": po dogovoru."
+        }
       ]
     },
-    "napomena": "Poslove obavljamo na osnovu licence za pravna lica za obavljanje poslova BZR i rešenja MUP-a za organizovanje zaštite od požara, uz akt poslodavca o imenovanju savetnika za BZR i ugovor koji ostaje u vašoj dokumentaciji."
+    "napomena": "Poslove obavljamo na osnovu licence za pravna lica za obavljanje poslova BZR i uverenja MUP-a, uz akt poslodavca o imenovanju savetnika za BZR i ugovor koji ostaje u vašoj dokumentaciji."
   },
   "faq": {
     "oznaka": "06 / PITANJA",
@@ -200,7 +267,7 @@
       "delatnost": "DELATNOST",
       "poruka": "PORUKA (OPCIONO)"
     },
-    "saglasnost": "Slažem se da Preving Pro obradi moje podatke radi odgovora na ovaj upit, u skladu sa Politikom privatnosti.",
+    "saglasnost": "Slažem se da PREVING PRO DOO obradi moje podatke radi odgovora na ovaj upit, u skladu sa Politikom privatnosti.",
     "saglasnostGreska": "Označite saglasnost da bismo mogli da odgovorimo na upit.",
     "dugme": "Pošaljite upit →",
     "poslato": {
