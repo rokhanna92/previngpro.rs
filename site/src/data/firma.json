@@ -1,11 +1,14 @@
 {
   "telefon": "063 81 855 87",
   "telefonHref": "tel:+381638185587",
-  "imejlovi": ["boris.sabo@previngpro.rs", "mira.lainovic@previngpro.rs"],
+  "imejlovi": [
+    "boris.sabo@previngpro.rs",
+    "mira.lainovic@previngpro.rs"
+  ],
   "ulica": "Temerinski put 51",
   "naselje": "Klisa",
-  "grad": "21000 Novi Sad",
+  "grad": "21129 Novi Sad",
   "radnoVreme": "pon–pet 08–16 · linija 24/7",
-  "pravnoIme": "Preving Pro DOO za preventivni inženjering Novi Sad",
-  "sifraDelatnosti": "Šifra delatnosti 7112"
+  "pravnoIme": "PREVING PRO DOO ZA PREVENTIVNI INŽINJERING NOVI SAD",
+  "sifraDelatnosti": "71.12 Inžinjerske delatnosti i povezano tehničko savetovanje"
 }
