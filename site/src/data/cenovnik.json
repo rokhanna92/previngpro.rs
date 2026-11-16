@@ -54,8 +54,8 @@
         {
           "id": "akt-o-proceni-rizika",
           "n": "Akt o proceni rizika",
-          "d": "po radnom mestu, sa merama i rokovima",
-          "iznos": "4.000–7.000"
+          "d": "po radnom mestu",
+          "iznos": "od 4.000"
         },
         {
           "id": "pravilnik-bzr",
@@ -72,14 +72,8 @@
         {
           "id": "pravila-zop",
           "n": "Pravila zaštite od požara sa planom evakuacije",
-          "d": "za objekte III kategorije",
-          "iznos": "8.000–15.000"
-        },
-        {
-          "id": "elaborat-zop",
-          "n": "Elaborat zaštite od požara",
-          "d": "za složenije objekte i tehnologije",
-          "iznos": "od 25.000"
+          "d": "za objekte III kategorije zop i za stambene objekte",
+          "iznos": "od 8.000"
         }
       ]
     },
