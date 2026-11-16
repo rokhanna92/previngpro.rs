@@ -7,7 +7,7 @@
     "koordinate": "45.29°N / 19.85°E · NOVI SAD · KLISA",
     "linija": "LINIJA 24/7 AKTIVNA",
     "oznaka": "BZR_01 / ZOP_02 / KOORDINATOR_03 / OBUKE_04",
-    "naslovPre": "Bezbednost i zdravlje na radu po standardu",
+    "naslovPre": "Bezbednost i zdravlje na radu po standardima",
     "naslovAkcenat": "rafinerije",
     "naslovPosle": ".",
     "uvod": "Savetnik za BZR, referent zaštite od požara i koordinator gradilišta. Deset godina na projektima u Slovačkoj, Mađarskoj, Češkoj, Austriji i Hrvatskoj. Vi radite svoj posao, a dokumentaciju, obuke i rokove držimo mi.",
@@ -15,7 +15,7 @@
     "linkCenovnik": "Pogledajte cenovnik →",
     "panel": {
       "naslov": "STATUS / PROPISI",
-      "zivo": "ŽIVO",
+      "zivo": "UŽIVO",
       "redovi": [
         {
           "label": "Zakon 35/2023",
@@ -33,12 +33,13 @@
     },
     "traka": [
       "AKT O PROCENI RIZIKA",
-      "OBUKA ZAPOSLENIH",
-      "PLAN EVAKUACIJE",
+      "OBUKE ZAPOSLENIH",
+      "PLANOVI EVAKUACIJE",
       "KONTROLA GRADILIŠTA I FIRMI",
       "VOĐENJE EVIDENCIJA",
       "ZASTUPANJE PRED INSPEKCIJOM",
-      "GEOTAGOVANI FOTOREPORTING"
+      "GEOTAGOVANI FOTOREPORTING",
+      "PRAVILA ZOP ZA OBJEKTE U III. KAT. I ZA STAMBENE OBJEKTE"
     ]
   },
   "brojke": [
@@ -48,7 +49,7 @@
     },
     {
       "broj": "10",
-      "tekst": "godina na investicionim projektima i remontima u EU"
+      "tekst": "godina na investicionim projektima i kapitalnim remontima u EU"
     },
     {
       "broj": "05",
@@ -73,39 +74,39 @@
     "odgovori2": [
       "Građevina, proizvodnja, skladištenje, transport",
       "Kancelarija, IT, trgovina, usluge",
-      "Nešto drugo"
+      "Druga delatnost"
     ],
-    "napomena": "Informativna procena na osnovu Zakona o BZR („Sl. glasnik RS\" br. 35/2023). Ne zamenjuje stručnu ocenu. Pozovite nas i proverićemo vaš konkretan slučaj.",
+    "napomena": "Informativna procena na osnovu Zakona o BZR („Sl. glasnik RS\" br. 35/2023) ne zamenjuje stručnu ocenu. Pozovite nas i proverićemo vaš konkretan slučaj.",
     "rezultatOznaka": "REZULTAT",
     "rezultati": {
       "noEmp": {
-        "title": "Ne, još ne.",
-        "body": "Obaveze iz Zakona o BZR nastaju sa prvim zaposlenim. Ako planirate zapošljavanje, pametno je pripremiti akt o proceni rizika i pravilnike pre prvog ugovora. Jeftinije je nego naknadno usklađivanje.",
+        "title": "Ne, još uvek nije obaveza.",
+        "body": "Obaveze iz Zakona o BZR nastaju sa prvim zaposlenim. Ako planirate zapošljavanje, pametno je pripremiti akt o proceni rizika i obuke novih radnika pre njihovog nastupa na radna mesta. Troškovi su mnogo manji nego naknadno usklađivanje sa zakonom.",
         "fine": false
       },
       "many": {
         "title": "Da, bez izuzetka.",
-        "body": "Sa više od 20 zaposlenih poslodavac ne može sam da obavlja poslove BZR ni u jednoj delatnosti. Potrebno vam je stručno lice, kompletna dokumentacija i evidencije usklađene sa novim pravilnicima.",
+        "body": "Sa više od 20 zaposlenih poslodavac ne može sam da obavlja poslove BZR ni u jednoj delatnosti. Potrebno vam je stručno lice za BZR, koje ćete zaposliti ili angažovati outsource i te obaveze ostaviti nama da ih rešavamo za Vas.",
         "fine": true
       },
       "risk": {
         "title": "Da, potreban vam je.",
-        "body": "Sa najmanje jednim zaposlenim u delatnosti povećanog rizika dužni ste da organizujete poslove bezbednosti i zdravlja na radu i angažujete stručno lice. Sami taj posao ne možete voditi.",
+        "body": "Sa najmanje jednim zaposlenim licem u delatnosti povećanog rizika obavezni ste da zaposlite stručno lice za BZR ili angažujete outsource stručno lice po potrebi. Sami taj posao ne možete raditi a outsource je bolja opcija.",
         "fine": true
       },
       "office": {
-        "title": "Možda, uz stručni ispit.",
-        "body": "U pojedinim manje rizičnim delatnostima poslodavac sa do 20 zaposlenih može sam da obavlja poslove BZR, pod uslovom da položi stručni ispit. U praksi većina vlasnika taj posao poverava stručnom licu. Vreme, evidencije i izmene propisa ostaju naša briga.",
+        "title": "Moguće, uz položen stručni ispit.",
+        "body": "U manje rizičnim delatnostima poslodavac sa do 20 zaposlenih može sam da obavlja poslove BZR, pod uslovom da sam položi stručni ispit. U praksi većina vlasnika firmi taj posao poverava outsource stručnom licu. Vreme, evidencije i izmene propisa ostaju naša briga.",
         "fine": false
       },
       "other": {
         "title": "Verovatno da, zavisi od šifre delatnosti.",
-        "body": "Lista manje rizičnih delatnosti je zatvorena. Ako vaša šifra delatnosti nije na njoj, poslove BZR mora voditi stručno lice. Pozovite nas sa matičnim brojem firme i odgovaramo odmah.",
+        "body": "Ako Vaša delatnost spada u član 48 zakona o BZR („Sl. glasnik RS\" br. 35/2023) i imate jednog i više zaposlenih poslove bezbednosti na radu mora voditi savetnik za BZR. Pozovite nas sa matičnim brojem firme i odgovaramo odmah.",
         "fine": false
       }
     },
     "rokOznaka": "ROK",
-    "rok": "1. april 2027.",
+    "rok": "1. januar 2027.",
     "kaznaOznaka": "KAZNA ZA PREDUZETNIKA",
     "kazna": "400.000–500.000 RSD",
     "dugme": "Zatražite ponudu →"
@@ -148,9 +149,9 @@
   },
   "rokovi": {
     "oznaka": "02 / ROKOVI KOJI VAS SE TIČU",
-    "datumRed1": "1. april",
+    "datumRed1": "1. januar",
     "datumRed2": "2027.",
-    "tekst": "Od tog dana primenjuju se četiri nova pravilnika, među njima o proceni rizika, o radu na visini i o vođenju evidencija. Primena je pomerena sa 1. januara 2027. godine. Dobili ste vreme, ne oproštaj. Naš deo posla: obuke zaposlenih, kontrola gradilišta i firmi, vođenje evidencija i zastupanje pred inspekcijom.",
+    "tekst": "Od tog dana primenjuju se četiri nova pravilnika, među njima o proceni rizika, o radu na visini i o vođenju evidencija. Primena je pomerena i rok za uskladjivanje je 1. januara 2027. godine. Dobili ste vreme, ne oproštaj. Naš deo posla: izrada dokumentacije, obuke zaposlenih, kontrola Vaših gradilišta i firmi, vođenje evidencija i zastupanje pred inspekcijom rada.",
     "kazne": [
       {
         "oznaka": "KAZNA / PREDUZETNIK",
@@ -175,7 +176,7 @@
   "paketi": {
     "oznaka": "03 / MESEČNI PAUŠAL",
     "naslov": "BZR i ZOP po sistemu ključ u ruke",
-    "uvod": "Mesečni paušal po meri vaše firme. Vi dobijate stručno lice, dokumentaciju i rokove pod kontrolom, bez zaposlenog inženjera na platnom spisku."
+    "uvod": "Mesečni paušali po meri Vaše firme. Vi dobijate imenovano stručno lice, dokumentaciju, evidencije  i rokove pod kontrolom, bez zaposlenog inženjera na platnom spisku."
   },
   "cenovnik": {
     "oznaka": "04 / CENOVNIK",
@@ -220,11 +221,11 @@
         "mesto": "HRVATSKA"
       }
     ],
-    "iskustvoTekst": "Sedam godina na investicionim projektima i generalnim remontima rafinerija, tri godine kao koordinator na gradilištima u Slovačkoj. Ako standard izdrži remont rafinerije, izdržaće i vaše gradilište.",
+    "iskustvoTekst": "Sedam godina na investicionim projektima i kapitalnim remontima po rafinerijama, tri godine kao koordinator gradilištima u Slovačkoj. Ako standard izdrži remont rafinerije, izdržaće i vaše gradilište.",
     "kartice": [
       {
         "oznaka": "OPREMA NA TERENU",
-        "tekst": "Alcovisor Mark X Plus za kontrolu alkohola sa protokolom o testiranju, fotoaparat Olympus OM System TG-6 za geotagovani fotoreporting, projektor Epson EB-W05 za obuke na terenu."
+        "tekst": "Alcovisor Mark X Plus za kontrolu alkohola sa protokolom o testiranju radnika, fotoaparat Olympus OM System TG-6 za geotagovani fotoreporting, projektor Epson EB-W05 za kvalitetne obuke na terenu."
       },
       {
         "oznaka": "DOSTUPNOST",
