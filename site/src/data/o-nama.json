@@ -68,20 +68,20 @@
   "timeline": [
     {
       "tag": "NITRA · SLOVAČKA",
-      "title": "Master inžinjer iz bezbednosti na radu",
-      "text": "Tehnički fakultet u Nitri: bezbednost na radu i pouzdanost tehničkih sistema. Zanat naučen tamo gde je BZR inženjerska disciplina, ne fascikla."
+      "title": "Master inžinjer zaštite na radu",
+      "text": "Tehnički fakultet u Nitri: bezbednost i zdravlje na radu i pouzdanost tehničkih sistema. Zanat naučen tamo gde je BZR inženjerska disciplina, ne fascikla."
     },
     {
       "tag": "ABEP, NITRA · 3 GODINE",
       "title": "Koordinator gradilišta",
-      "text": "Tri godine koordinacije izvođača na gradilištima širom Slovačke: prijave, elaborati, kontrole i svakodnevni rad sa ljudima na terenu."
+      "text": "Tri godine koordinacije kod izvođača na gradilištima širom Slovačke: prijave, elaborati, kontrole i svakodnevni rad sa ljudima na terenu."
     },
     {
       "tag": "REMONTI PO EU · 7 GODINA",
-      "title": "Investicioni projekti i generalni remonti rafinerija",
+      "title": "Investicioni projekti i kapitalni remonti rafinerija",
       "text": "Sedam godina na remontima, gde hiljade izvođača rade pod jednim režimom dozvola i gde se svaka greška vidi isti dan.",
       "chips": [
-        "SLOVNAFT · BRATISLAVA",
+        "SLOVNAFT · SLOVAČKA",
         "MOL · MAĐARSKA",
         "UNIPETROL · ČEŠKA",
         "OMV · AUSTRIJA",
@@ -91,12 +91,12 @@
     {
       "tag": "2026 · NOVI SAD",
       "title": "Osnovan Preving Pro",
-      "text": "Preving Pro DOO za preventivni inženjering, Novi Sad. Kancelarija na Temerinskom putu 51 na Klisi: na glavnom putu, nadomak rafinerije. Standard sa remonta, primenjen na male firme u Vojvodini."
+      "text": "PREVING PRO DOO ZA PREVENTIVNI INŽINJERING, NOVI SAD. Kancelarija stan br. 6 na Temerinskom putu 51 u naselju Klisa. U neposrednoj blizini industrijskih i poslovnih zona, nadomak rafinerije. Standard sa remonta, primenjen na male firme u Vojvodini."
     },
     {
       "tag": "SRBIJA · PRAVNO LICE",
-      "title": "Licenca i rešenje na ime firme",
-      "text": "Licenca za pravna lica za obavljanje poslova bezbednosti i zdravlja na radu i rešenje MUP-a za obavljanje poslova organizovanja zaštite od požara u subjektima II i III kategorije ugroženosti od požara."
+      "title": "Licenca i uverenje na ime firme",
+      "text": "Licenca za pravna lica za obavljanje poslova bezbednosti i zdravlja na radu i uverenje MUP-a za obavljanje poslova zaštite od požara za objekte u III. kategoriji i za stambene objekte"
     }
   ],
   "tim": [
@@ -130,7 +130,7 @@
     },
     {
       "label": "OSNOV RADA",
-      "text": "Licenca za pravna lica za obavljanje poslova BZR, rešenje MUP-a za organizovanje zaštite od požara, akt poslodavca o imenovanju savetnika za BZR i ugovor koji ostaje u vašoj dokumentaciji."
+      "text": "Licenca za pravna lica za obavljanje poslova BZR, uverenje MUP-a poslove zaštite od požara, imenovanje lica za poslove BZR i ugovor o pružanju usluga koji ostaje u vašoj dokumentaciji."
     }
   ]
 }
